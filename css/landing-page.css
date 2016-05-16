@@ -23,6 +23,12 @@ h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
+.orange {
+  background-color: #ff5722;
+  border-radius: 6px;
+  color: #ffffff!important;
+
+}
 
 .topnav {
     font-size: 14px;
