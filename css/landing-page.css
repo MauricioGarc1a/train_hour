@@ -192,20 +192,20 @@ p.copyright {
 .btn-submit:focus,
 .btn-submit.focus {
   color: #fff;
-  background-color: #286090;
-  border-color: #122b40;
+  background-color: #ff5722;
+  border-color: #ff5722;
 }
 .btn-submit:hover {
   color: #fff;
-  background-color: #286090;
-  border-color: #204d74;
+  background-color: #ff5722;
+  border-color: #ff5722;
 }
 .btn-submit:active,
 .btn-submit.active,
 .open > .dropdown-toggle.btn-submit {
   color: #fff;
-  background-color: #286090;
-  border-color: #204d74;
+  background-color: #ff5722;
+  border-color: #ff5722;
 }
 .btn-submit:active:hover,
 .btn-submit.active:hover,
@@ -217,8 +217,8 @@ p.copyright {
 .btn-submit.active.focus,
 .open > .dropdown-toggle.btn-submit.focus {
   color: #fff;
-  background-color: #204d74;
-  border-color: #122b40;
+  background-color: #ff5722;
+  border-color: #fff;
 }
 .btn-submit:active,
 .btn-submit.active,
@@ -234,9 +234,9 @@ fieldset[disabled] .btn-submit:focus,
 .btn-submit.disabled.focus,
 .btn-submit[disabled].focus,
 fieldset[disabled] .btn-submit.focus {
-  background-color: #337ab7;
-  border-color: #2e6da4;
+  background-color: #ff5722;
+  border-color: #fff;
 }
 .btn-submit .badge {
-  color: #337ab7;
-  background-color: #fff;
+  color: #fff;
+  background-color: #ff5722;
